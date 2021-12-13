@@ -1,0 +1,6 @@
+.error {
+    border: 5px solid red;
+}
+.hidden {
+    display: none;
+}
